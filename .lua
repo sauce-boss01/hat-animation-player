@@ -1,5 +1,5 @@
 
-NOTE: this script will only work on some games that havent updated the character deletions (fuck roblox updates)
+--NOTE: this script will only work on some games that havent updated the character deletions (fuck roblox updates)
 
 
 --Required Hats:
