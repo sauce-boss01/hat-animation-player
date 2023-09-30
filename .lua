@@ -280,6 +280,7 @@ local TextLabel = Instance.new("TextLabel")
 
 ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ScreenGui.ResetOnRespawn = True
 
 Frame.Parent = ScreenGui
 Frame.BackgroundColor3 = Color3.fromRGB(116, 116, 116)
