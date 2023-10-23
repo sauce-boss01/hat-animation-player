@@ -1,6 +1,6 @@
 
 --NOTE: this script will only work on some games that havent updated the character deletions (fuck roblox updates)
---It will only work if it prints out "Enum.RejectCharacterDeletions.Default true" when executed
+--It will only work if it prints out "Enum.RejectCharacterDeletions.Disabled true" when executed
 
 --Required Hats:
 --https://www.roblox.com/catalog/62724852/Chestnut-Bun
